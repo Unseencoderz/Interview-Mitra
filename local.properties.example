@@ -1,0 +1,4 @@
+# Copy this file to local.properties and add your own keys. Never commit local.properties.
+sdk.dir=C\:\\Users\\YOUR_USER\\AppData\\Local\\Android\\Sdk
+DEEPGRAM_API_KEY=your_deepgram_key
+ANTHROPIC_API_KEY=your_anthropic_key
