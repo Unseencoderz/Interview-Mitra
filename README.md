@@ -126,4 +126,5 @@ Issues and pull requests are welcome. Please keep changes focused, never commit 
 
 ## License
 
-No license file is currently included in this repository. Do not assume permission to reuse or redistribute the code until a license is added.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
